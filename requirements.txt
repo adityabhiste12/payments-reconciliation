@@ -1,4 +1,5 @@
+streamlit==1.25.0
 pandas==1.5.3
 numpy==1.23.5
-streamlit==1.25.0
 altair==4.2.2
+pillow==9.5.0
