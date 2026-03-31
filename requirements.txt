@@ -1,3 +1,4 @@
-pandas
-numpy
-streamlit
+pandas==2.2.2
+numpy==1.26.4
+streamlit==1.32.0
+altair==4.2.2
