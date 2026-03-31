@@ -1,5 +1,9 @@
-import streamlit as st
-from src.payment_reconciliation import generate_transactions, generate_settlements, reconcile
+import sys
+import os
+
+sys.path.append(os.path.join(os.path.dirname(__file__), "src"))
+
+from payment_reconciliation import generate_transactions, generate_settlements, reconcile
 
 st.title("💳 Payment Reconciliation System")
 
