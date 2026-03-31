@@ -1,0 +1,17 @@
+txn_id,date,merchant,amount,currency,type,original_txn_id
+TXN-001,2024-03-01,Alpha Corp,1500.0,USD,payment,
+TXN-002,2024-03-02,Beta Ltd,320.75,USD,payment,
+TXN-003,2024-03-04,Gamma Inc,875.5,USD,payment,
+TXN-004,2024-03-06,Delta Co,2200.0,USD,payment,
+TXN-005,2024-03-08,Epsilon LLC,450.33,USD,payment,
+TXN-006,2024-03-11,Zeta GmbH,3100.0,USD,payment,
+TXN-007,2024-03-13,Eta SA,780.2,USD,payment,
+TXN-008,2024-03-15,Theta BV,1250.0,USD,payment,
+TXN-009,2024-03-17,Iota AG,560.8,USD,payment,
+TXN-010,2024-03-19,Kappa Pty,990.45,USD,payment,
+TXN-011,2024-03-29,Lambda NV,1800.0,USD,payment,
+TXN-012,2024-03-21,Mu Corp,445.335,USD,payment,
+TXN-013,2024-03-23,Nu Pte,670.0,USD,payment,
+TXN-REF-999,2024-03-26,Xi Trading,-250.0,USD,refund,TXN-GHOST-000
+TXN-014,2024-03-09,Omicron SA,310.6,USD,payment,
+TXN-015,2024-03-16,Pi Holdings,4500.0,USD,payment,
